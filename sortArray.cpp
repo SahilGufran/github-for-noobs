@@ -26,6 +26,7 @@ int main()
    {
        cout<<a[i]<<" ";
    }
+   cout<<"The array is sorted now";
 
 
     return 0;
