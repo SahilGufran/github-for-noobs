@@ -27,7 +27,10 @@ int main()
        cout<<a[i]<<" ";
    }
 
-   cout<<"The size of array is "<<n;
+   cout<<"The size of array is :"<<n;
+   cout<<"The last element is :"<<a[n];
+
+//    This comment is in dev
 
 
     return 0;
