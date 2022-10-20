@@ -26,9 +26,8 @@ int main()
    {
        cout<<a[i]<<" ";
    }
-   cout<<"The array is sorted now";
 
-   cout<<"The size of array is"<<n;
+   cout<<"The size of array is "<<n;
 
 
     return 0;
