@@ -28,6 +28,8 @@ int main()
    }
    cout<<"The array is sorted now";
 
+   cout<<"The size of array is"<<n;
+
 
     return 0;
 
